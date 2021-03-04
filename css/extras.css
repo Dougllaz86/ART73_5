@@ -17,7 +17,7 @@ p span .textarea, p .select {
   color: #fff;
 }
 
-.content .table td {
+.content .table * {
   vertical-align: middle;
 }
 
